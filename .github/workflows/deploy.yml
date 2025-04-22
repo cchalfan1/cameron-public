@@ -10,8 +10,13 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 18
-      - run: npm install
-      - run: npm run build
-      - uses: JamesIves/github-pages-deploy-action@v4
+      - name: Install and Build
+        run: |
+          npm install
+          npm run build
+      - name: Deploy to GitHub Pages
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           folder: build
+          branch: gh-pages
+          clean: true
