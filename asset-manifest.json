@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.117c1c4e.css",
+    "main.js": "/static/js/main.b560a8b6.js",
+    "static/js/453.44ed7426.chunk.js": "/static/js/453.44ed7426.chunk.js",
+    "static/media/app-mockup.png": "/static/media/app-mockup.40fc28e12f14697970bb.png",
+    "static/media/logo.png": "/static/media/logo.8c43ed914d1f4443eaa7.png",
+    "static/media/apple-white.png": "/static/media/apple-white.8ff3ac6c7d4bc4309cbc.png",
+    "static/media/google.png": "/static/media/google.682297f9d0aab73fda73.png",
+    "index.html": "/index.html",
+    "main.117c1c4e.css.map": "/static/css/main.117c1c4e.css.map",
+    "main.b560a8b6.js.map": "/static/js/main.b560a8b6.js.map",
+    "453.44ed7426.chunk.js.map": "/static/js/453.44ed7426.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.117c1c4e.css",
+    "static/js/main.b560a8b6.js"
+  ]
+}
